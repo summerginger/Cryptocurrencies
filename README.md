@@ -8,4 +8,5 @@ The purpose of this anaylsis is to create a report that includes what cryptocurr
 ![totalcoinsmined](https://github.com/summerginger/Cryptocurrencies/blob/main/pics/totalcoinsmined.png)
 
 ##Summary
+
 This analysis allows for the classification of cryptocurrency data so that investment institution can determine how they want their currencies to perform.
