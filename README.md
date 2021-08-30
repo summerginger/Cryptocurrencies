@@ -9,4 +9,4 @@ The purpose of this anaylsis is to create a report that includes what cryptocurr
 
 ##Summary
 
-This analysis allows for the classification of cryptocurrency data so that investment institution can determine how they want their currencies to perform.
+This analysis allows for the classification of cryptocurrency data so that financial institution can determine how they want their currencies to perform.
